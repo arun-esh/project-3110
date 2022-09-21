@@ -31,9 +31,13 @@ Define the expected project results together with the required development const
 ## Project Team
 Hint: List all project team members here and ensure that the time they spend on the project is accounted.
 
-| Name | Responsibility | Availibility | Comment |
-| ---- | -------------- | ------------ | ------- |
-|      |                |              |         |
+| Name              | Responsibility | Availibility | Comment |
+| ----------------- | -------------- | ------------ | ------- |
+| Dylan Bourque     |                |              |         |
+| Danielle Nguyen   |                |              |         |
+| Najia Shinneeb    |                |              |         |
+| Arunesh Choudhary |                |              |         |
+|                   |                |              |         |
 
 ## Schedule and Milestones
 Hint: Estimate the effort for the project activities and plan the activity sequencing.
