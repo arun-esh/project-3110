@@ -37,7 +37,7 @@ Hint: List all project team members here and ensure that the time they spend on 
 | Danielle Nguyen   |                |              |         |
 | Najia Shinneeb    |                |              |         |
 | Arunesh Choudhary |                |              |         |
-|                   |                |              |         |
+| Philip Doyle      |                |              |         |
 
 ## Schedule and Milestones
 Hint: Estimate the effort for the project activities and plan the activity sequencing.
